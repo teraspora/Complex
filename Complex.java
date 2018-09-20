@@ -96,7 +96,7 @@ public class Complex {
 	@Override
 	public boolean equals(Object o) {
 		if (this == o) return  true; 
-		if (!(w instanceof Complex)) return false;
+		if (!(o instanceof Complex)) return false;
 		Complex w = (Complex)o;
 		return this.x == w.x && this.y == w.y;
 	}
