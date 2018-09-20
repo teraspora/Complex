@@ -103,9 +103,9 @@ public class Complex {
 	}
 
 	@Override
-    public int hashCode() {
+    	public int hashCode() {
         return Objects.hash(this.x, this.y);
-    }
+    	}
 	
 	public boolean equals(double x) {
 		return this.x == x && this.y == 0.0;
