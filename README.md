@@ -5,15 +5,15 @@ This class implements all the standard fundamental component-manipulating, arith
 All the main arithmetic operators are implemented in both static and instance forms, so, for example, 
 `Complex.product(z, w)` can, alternatively, be written as `z.times(w)`.
 
-Many of the methods are not commented as their functionality is clear and the impplementation thereof obvious.
+Many of the methods are not commented as their functionality is clear and the implementation thereof obvious.
 
 Other methods are commented to clarify their functionality.
 
-I have forborne to attach javadoc comments ike @param, @return etc. to each method as this would make the code much harder to read.   The easiest way to discover what#s goin' on is to read the code!
+I have forborne to attach javadoc comments like `@param`, `@return` etc. to each method as this would make the code much harder to read.   The easiest way to discover what's goin' on is to read the code!
 
 ## Prerequisites
 
-Should work with Java 7+.
+Compiles with Java 10.   Should work with Java 7+.
 
 ## Author
 
