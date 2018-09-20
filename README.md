@@ -15,7 +15,7 @@ I have forborne to attach javadoc comments like `@param`, `@return` etc. to each
 
 ## Prerequisites
 
-Compiles with Java 10.   Should work with Java 7+.
+Compiles with Java 10.   Should also work with Java 7+.
 
 ## Author
 
