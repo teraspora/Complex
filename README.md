@@ -23,7 +23,7 @@ John Lynch
 
 ## License
 
-This project is licensed under the GNU/GPL License - see the [LICENCE.md](LICENCE.md) file for details 
+This project is licensed under the GNU/GPL License - see the [LICENCE](LICENCE) file for details 
 
 ## Contact
 
